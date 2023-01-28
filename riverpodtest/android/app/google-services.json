@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "180721429002",
+    "project_id": "clickers-c221f",
+    "storage_bucket": "clickers-c221f.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:180721429002:android:9b88cee38e649ffebe4df3",
+        "android_client_info": {
+          "package_name": "com.example.riverpodtest"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "180721429002-ffb245kpt6jnha3eohu4ii0ccgioq3f7.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.riverpodtest",
+            "certificate_hash": "99468d5d086d21e05ea830ab12f5207ca355abcf"
+          }
+        },
+        {
+          "client_id": "180721429002-04qjrbucq3en9kjd9qrmbgpu5feabtvg.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBYxBi6p9ACiAF9oRLRfFvg8RMHUY694Vk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "180721429002-04qjrbucq3en9kjd9qrmbgpu5feabtvg.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
