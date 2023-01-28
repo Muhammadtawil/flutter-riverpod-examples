@@ -68,7 +68,7 @@ class SecondScreen extends ConsumerWidget {
                   ),
                 ],
                 onChanged: (value) {
-                  city = value;
+                  ref.read(cityProvider.notifier).state = value!;
                 },
               ),
               Text(
